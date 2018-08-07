@@ -1,0 +1,46 @@
+body {
+    overflow: scroll;
+}
+
+.campo-digitacao{
+    font-size: 20px;
+    height: 130px;
+    border: 3px solid black;
+}
+
+.campo-desativado{
+    background-color: lightgray;
+}
+
+.frase{
+    font-size: 20px;
+}
+
+.botoes-contadores{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.botoes-contadores ul{
+    margin-left: 10px;
+}
+
+.icones{
+    vertical-align: middle;
+}
+
+.borda-verde{
+    border: 3px solid green;
+}
+
+.borda-vermelha{
+    border: 3px solid red;
+}
+
+#nova-frase{
+    font-size: 20px;
+    height: 20px;
+    border: 3px solid black;
+    padding: 10px;
+}
