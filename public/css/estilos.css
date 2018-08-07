@@ -44,3 +44,9 @@ body {
     border: 3px solid black;
     padding: 10px;
 }
+.texto-correto{
+    color: green;
+}
+.texto-errado{
+    color: red;
+}
